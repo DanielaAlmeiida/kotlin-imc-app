@@ -1,4 +1,4 @@
-package br.com.fiap.imcapp
+package br.com.fiap.imcapp.service
 
 import kotlin.math.pow
 
